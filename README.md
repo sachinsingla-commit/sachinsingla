@@ -11,5 +11,5 @@ Honoured with 'Product Owner Certificate' from the company for my valuable effor
 
 Right now I have two mainstream commercial apps live on the app store which is the backbone of the corresponding companies.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sachin)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sachin_Singla)](https://github.com/anuraghazra/github-readme-stats)
 
